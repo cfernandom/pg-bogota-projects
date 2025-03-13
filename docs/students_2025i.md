@@ -4,7 +4,7 @@
 
 ## Estudiantes Grupo 2B
 
-
+Michael Gomez
 
 ## Estudiantes Grupo 3B
 
