@@ -1,18 +1,11 @@
 ## Fuentes de Datos Abiertos Seleccionadas
 
-La siguiente tabla recopila los fuentes de datos abiertos seleccionados con su lugar de origen y que entidad esta encargada de la suministracion de estos datos, el proyecto Conexión Campo-Ciudad, enfocándose en Bogotá.
+La siguiente tabla recopila las fuentes de datos abiertos seleccionadas con su lugar de origen y la entidad encargada de su suministro para el proyecto **Conexión Campo-Ciudad**, enfocándose en Bogotá.
 
 | Nombre del archivo/Enlace | Fuente/Organización | Descripción detallada |
 |---------------------------|---------------------|-----------------------|
-| Bogotá | Portal Datos Abiertos Bogotá | https://datosabiertos.bogota.gov.co/ | Datos geográficos, culturales, de inversión, estadísticos de la capital | 
-| Bogotá | Portal Datos para la Transparencia | https://gobiernoabiertobogota.gov.co/transparencia | Datos gubernamentales y de gestión pública | Transparencia, gestión pública | Periódica (no especificada) | No especificado[1] |
-| Valle del Cauca | Secretaría de Desarrollo Rural, Agricultura y Pesca | https://www.valledelcauca.gov.co/agricultura/publicaciones/69735/datos-abiertos-secretaria-de-desarrollo-rural-agricultura-y-pesca/ | Consolidados agrícolas por municipios de cultivos transitorios y permanentes (2000-2021), Indicadores del Observatorio Agropecuario | Agricultura y desarrollo rural | Anual (con actualizaciones en septiembre 2023 y 2024) | No especificado[2] |
-| Bogotá Región | Red de Mercados Agroecológicos | No disponible directamente | Información sobre productores agroecológicos, hortalizas, frutas, productos apícolas, pecuarios, alimentos procesados, medicinales | Agricultura ecológica | No especificada | No especificado[4] |
-| Colombia (Nacional) | Portal de Datos Abiertos Colombia | https://www.datos.gov.co/ | Datos multisectoriales (incluye datos agrícolas, comerciales y logísticos) | Multisectorial | Variable según conjunto de datos | CSV, JSON, XML entre otros[5] |
+| [Transparencia Bogotá](https://gobiernoabiertobogota.gov.co/transparencia) | Alcaldía Mayor de Bogotá | Datos abiertos sobre la gestión pública en la ciudad, incluyendo información de presupuestos, contratación, planeación, gestión de riesgos y rendición de cuentas. Es relevante para analizar el manejo de recursos públicos y estructurar relaciones entre entidades gubernamentales y proyectos. |
+| [Evaluación de seguridad nocturna para mujeres en Bogotá](https://datosabiertos.bogota.gov.co/dataset/evaluacion-de-seguridad-nocturna-para-las-mujeres-de-bogota-d-c) | Secretaría Distrital de la Mujer | Datos sobre percepción de seguridad nocturna por parte de las mujeres en Bogotá, con variables como zonas de riesgo, incidentes reportados y factores asociados a la violencia de género. Útil para análisis de seguridad y planificación urbana. |
+| [Delito de Alto Impacto](https://www.valledelcauca.gov.co/agricultura/publicaciones/69735/datos-abiertos-secretaria-de-desarrollo-rural-agricultura-y-pesca/) | Secretaría Distrital de Seguridad, Convivencia y Justicia | Proporciona datos abiertos sobre los hechos delictivos de mayor gravedad en la ciudad. Esta información es gestionada por la Secretaría de Seguridad, Convivencia y Justicia de Bogotá, y permite conocer la cantidad de delitos registrados, su clasificación y características. |
+| [Centro de Atención a Víctimas. Bogotá D.C.](https://datosabiertos.bogota.gov.co/dataset/centro-de-atencion-a-victimas-de-delito-sexual-y-violencia-intrafamiliar-bogota-d-c) | Secretaría Distrital de Seguridad, Convivencia y Justicia | Equipamiento que proporciona un servicio oportuno y eficiente a las víctimas y personas involucradas en los delitos contra la libertad, integridad y formación sexual, trata de personas y violencia intrafamiliar, en un marco de respeto por la dignidad humana. Enfocan su actividad hacia el trato digno a las mujeres, hombres, niños, niñas y adolescentes que han sido víctimas dentro de las actuaciones procesales, con el fin de evitar su doble victimización en la ciudad de Bogotá. |
 
-### Fuentes de datos de gran tamaño
-
-Algunos archivos superan el límite de 10 MB, por lo que se proporcionan los enlaces directos:
-
-- **Datos de transparencia Bogotá (2015-2023)**  
-  [Descargar aquí](https://gobiernoabiertobogota.gov.co/transparencia)
