@@ -10,3 +10,9 @@ La siguiente tabla recopila los fuentes de datos abiertos seleccionados con su l
 | Bogotá Región | Red de Mercados Agroecológicos | No disponible directamente | Información sobre productores agroecológicos, hortalizas, frutas, productos apícolas, pecuarios, alimentos procesados, medicinales | Agricultura ecológica | No especificada | No especificado[4] |
 | Colombia (Nacional) | Portal de Datos Abiertos Colombia | https://www.datos.gov.co/ | Datos multisectoriales (incluye datos agrícolas, comerciales y logísticos) | Multisectorial | Variable según conjunto de datos | CSV, JSON, XML entre otros[5] |
 
+### Fuentes de datos de gran tamaño
+
+Algunos archivos superan el límite de 10 MB, por lo que se proporcionan los enlaces directos:
+
+- **Datos de transparencia Bogotá (2015-2023)**  
+  [Descargar aquí](https://gobiernoabiertobogota.gov.co/transparencia)
