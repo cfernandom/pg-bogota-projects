@@ -10,3 +10,5 @@ Este documento describe en detalle las fuentes de datos utilizados en el proyect
 | [Rutas de Recolección](https://datos.cali.gov.co/dataset/pt-pgirs-rutas-de-recoleccion-de-residuos-solidos) | Empresas de Servicios Públicos de Cali | **Temática:** Rutas de recolección de residuos sólidos. **Atributos:** Recorridos de los camiones recolectores, frecuencia de recolección, zonas cubiertas. **Relevancia:** Facilita la optimización del sistema de recolección para mejorar la eficiencia operativa. |
 
 Esta información es primordial para la estructuración del modelo entidad-relación (ER) del proyecto, se ha verificado que los datos utilizados son relevantes y específicos para el análisis de la gestión de residuos en Bogotá y Cali.
+
+con los datos que tenemos podemos ver que tipo de problema tenemos que soluciones podemos conseguir y con esas soluciones ir plasmandolas en una base de datos con sus respectivas tablas, relaciones etc, aun que contamos con un poco de informacion, nos podemos ayudar con ellas que estan mas avanzadas y ver soluciones
